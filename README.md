@@ -1,4 +1,4 @@
-# Linear-Regression-From-Scratch
+# Linear Regression From Scratch
 
 ## Overview
 Welcome! This project aims to provide a Python implementation of linear regression, a powerful statistical method used for modeling the relationship between variables. Linear regression is a fundamental technique in the fields of machine learning, statistics, and data science, and it finds applications in a wide range of domains, including finance, healthcare, economics, and engineering.
