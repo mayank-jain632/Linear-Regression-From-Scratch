@@ -10,7 +10,7 @@ Linear regression is a statistical approach for modeling the relationship betwee
 
 The goal of linear regression is to estimate the coefficients of the linear equation that best fits the observed data. This is done by minimizing the sum of squared differences between the observed and predicted values. Once the model is trained, it can be used to make predictions on new data or to infer relationships between variables, which can be extremely useful in many lab settings with slightly varying data to find the best fit line of a linear expression.
 
-## How to Use This Project
+## Usage
 To get started with the linear regression model:
 * Clone the repository to your local machine.
 * Install the required dependencies.
